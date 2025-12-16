@@ -164,4 +164,4 @@ Look for logs or errors related to QuickAdd or TaskNotes.
 
 ## License
 
-MIT
+GPLv3
